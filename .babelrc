@@ -1,4 +1,4 @@
 {
     // Specify the preset to for codes that you want to transpile: react & ES6
-    "presets": ["@babel/preset-react", "@babel-preset-env"]
+    "presets": ["@babel/preset-react", "@babel/preset-env"]
 }
